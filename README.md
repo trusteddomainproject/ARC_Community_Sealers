@@ -1,5 +1,6 @@
 # ARC_Community_Sealers
-Lists compiled by the ARC community to help with adoption
+
+Lists compiled by the ARC community to help bootstrap the usage of ARC by smaller mediators and receivers or anyone without a robust reputation system of their own.
 
 ## community_sealer_whitelist
 
